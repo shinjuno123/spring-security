@@ -1,0 +1,8 @@
+package com.luv2code.springsecurity.demo.config;
+
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages="com.luv2code.springsecurity.demo")
+public class DemoAppConfig {
+
+}
